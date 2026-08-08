@@ -22,6 +22,5 @@ class Product:
 p1 = Product("Phone", 40_000)
 p2 = Product("Laptop", 50_000)
 p3 = Product("Pen", 10) 
-p1.get_info()
 p1.calc_discount(50_000, 12)
 
